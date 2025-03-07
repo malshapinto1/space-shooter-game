@@ -52,8 +52,6 @@ MIT License - Feel free to modify and use
 Pull requests welcome! For major changes, please open an issue first.
 ```
 
-**Short Description for Repository Header:**  
 "A modern browser-based space shooter game featuring multiple levels, power-ups, and dual control modes. Built with vanilla JavaScript and HTML5 Canvas."
 
-**Tags for Repository:**  
 `space-shooter`, `html5-game`, `javascript-game`, `canvas-game`, `arcade-game`
