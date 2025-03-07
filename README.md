@@ -2,7 +2,7 @@
 
 # Space Shooter Game 🚀
 
-![Demo View](https://space-shooter-game-theta.vercel.app/)
+- **Live Demo**: [Play Now](https://space-shooter-game-theta.vercel.app/)
 
 A modern browser-based space shooter game with dynamic gameplay and multiple features. Built with HTML5, CSS3, and vanilla JavaScript.
 
