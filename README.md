@@ -1,5 +1,5 @@
 
-```markdown
+
 # Space Shooter Game 🚀
 
 A modern browser-based space shooter game with dynamic gameplay and multiple features. Built with HTML5, CSS3, and vanilla JavaScript.
@@ -10,7 +10,7 @@ A modern browser-based space shooter game with dynamic gameplay and multiple fea
 
 
 <!-- Add screenshot later -->
-
+```markdown
 ## Features ✨
 - 🕹️ Two modes: Player Control & Auto-Pilot
 - 🌌 5 Challenging Levels with Boss Battles
