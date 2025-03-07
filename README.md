@@ -4,7 +4,12 @@
 
 A modern browser-based space shooter game with dynamic gameplay and multiple features. Built with HTML5, CSS3, and vanilla JavaScript.
 
-![Game Screenshot](./screenshot.png) <!-- Add screenshot later -->
+[Game Screenshot menu](https://github.com/user-attachments/assets/d270bb19-f61f-4372-b318-89c90b92d3c7)
+![Game Screenshot auto player mode](https://github.com/user-attachments/assets/f334d82a-ef4c-4463-a0ab-8d0c875cadcb)
+![Game Screenshot Level](https://github.com/user-attachments/assets/ff2295b7-6ada-4eac-94f7-4e7a922dc233)
+
+
+<!-- Add screenshot later -->
 
 ## Features ✨
 - 🕹️ Two modes: Player Control & Auto-Pilot
